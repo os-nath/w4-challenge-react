@@ -10,9 +10,11 @@ function App() {
         <Weather city="Perth" />
       
     
+<br />
 
     <small>
-      <a href="https://github.com/os-nath/w4-challenge-react" target="blank">Open source</a>app by Nath Soares
+      <a href="https://github.com/os-nath/w4-challenge-react" target="blank">Open source </a>created by Nath Soares and hosted 
+      <a href="https://637f0fb6a69c553242656568--precious-dodol-20f065.netlify.app/" target="blank"> here</a>
     </small>
  </div> 
  );

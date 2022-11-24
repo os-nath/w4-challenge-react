@@ -2,11 +2,19 @@ body {
   text-align: center;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans";
-  color: blue;
-  background-color: #ffc20e;
+  color: rgb(174, 4, 180);
+  background-color: #e4ba3f;
   margin-top: 80px;
 }
 
 li {
-text-decoration: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+small {
+  color: black;
 }
