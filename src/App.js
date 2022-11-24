@@ -1,15 +1,21 @@
-import Weather from "./Weather.js";
+import React from 'react';
+import Weather from "./WeatherSearch.js";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      
         <h1>Week 4 Challenge</h1>
         <Weather city="Perth" />
-      </header>
-    </div>
-  );
+      
+    
+
+    <small>
+      <a href="https://github.com/os-nath/w4-challenge-react" target="blank">Open source</a>app by Nath Soares
+    </small>
+ </div> 
+ );
 }
 
 export default App;
